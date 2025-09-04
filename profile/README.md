@@ -35,7 +35,7 @@ Este proyecto fue desarrollado por un equipo interdisciplinario de **desarrollad
 ## 📖 Documentación del Proyecto
 Toda la documentación técnica y de usuario se encuentra disponible en el portal de **AprendIA Docs**:  
 
-- [Acceder a la documentación completa](https://icheja-project.github.io/aprendia-docs/)  
+- [Acceder a la documentación completa](https://icheja-project.github.io/aprendIA-docs)  
 
 Aquí encontrarás:  
 
