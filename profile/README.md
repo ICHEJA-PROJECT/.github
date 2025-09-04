@@ -1,6 +1,6 @@
-# 📚 Aprendia
+# 📚 AprendIA
 
-Bienvenido a **Aprendia** 👋  
+Bienvenido a **AprendIA** 👋  
 Un proyecto que busca **revolucionar el proceso de alfabetización** mediante una aplicación inclusiva para **sordos y oyentes**, diseñada con un enfoque moderno, intuitivo y accesible.  
 
 ---
